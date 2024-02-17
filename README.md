@@ -23,4 +23,4 @@ Une application web simple construite avec HTML, CSS et Vue.js qui permet aux ut
 - Vue.js
 
 # ©️ Crédits
-Ce projet a été inspiré de muhammed
+Ce projet a été inspiré de muhammed (https://github.com/muhammed/mini-player/commits?author=muhammed)
